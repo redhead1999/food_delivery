@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41807221176",
+    "project_id": "pizzarino-a0a43",
+    "storage_bucket": "pizzarino-a0a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41807221176:android:ed957d206bce3767bebf4d",
+        "android_client_info": {
+          "package_name": "com.aold.pizzarino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41807221176-qut240e0t3ciltkbon8etifeqv3rjhur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoUbkzLnkPpuMBIA-_9gugh0f7UM9BeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41807221176-qut240e0t3ciltkbon8etifeqv3rjhur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
